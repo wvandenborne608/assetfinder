@@ -1,0 +1,141 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.container {
+}
+
+#assetfinder_logo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#searchformrow {
+  text-align: center;
+}
+
+#searchform {
+  margin: 0 auto;
+  margin-bottom: 1em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width:280px;
+}
+
+#searchform p {
+  text-align:left;
+  font-size: small;
+  color:grey;
+  padding-left:10px;
+}
+
+#searchformmustinclude p {
+  text-align:left;
+  font-size: small;
+  color:grey;
+  padding-left:10px;
+}
+
+#searchformmustinclude {
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width:280px;
+}
+
+#searchform_keywords{
+  width:260px;
+  margin: 0 auto;
+  margin-bottom:10px;
+}
+
+#localeandtypesselection{
+  margin-bottom:10px;
+  display:inline;
+}
+
+#listbox_type {
+  width:100px;
+  display:inline;
+}
+
+#listbox_locale {
+  width:100px;
+  display:inline;
+}
+
+#listbox_type_output {
+  width:130px;
+  display:inline;
+}
+
+#listbox_locale_output {
+  width:130px;
+  display:inline;
+}
+
+#forminput_tags_output {
+  width:260px;
+  margin: 1em auto;
+}
+
+#searchform_submit {
+  display:inline;
+}
+
+#results_for h2{
+  font-size:1.5em;
+  color: grey;
+}
+
+#results_for blockquote{
+  font-style:italic;
+  font-weight:bold;
+}
+
+#results_tags h2{
+  font-size:1.5em;
+  color: grey;
+}
+
+.result_tablediv_th_nr{
+  width:60px;
+}
+
+.result_tablediv_th_type{
+  width:100px;
+}
+
+.result_tablediv_th_locale{
+  width:100px;
+}
+.result_tablediv_th_tags{
+  width:400px;
+}
+.result_tablediv_th_preview{
+  width:50px;
+}
+
+#previewModalBodyImg {
+    margin: 0 auto;
+    max-width: 480px;
+    max-height: 320px;
+    overflow: auto;
+    text-align: center;
+    background-color: #FEFEFE;
+    background-image: -webkit-linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB), -webkit-linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB);
+    background-image: -moz-linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB), -moz-linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB);
+    background-image: -o-linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB), -o-linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB);
+    background-image: -ms-linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB), -ms-linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB);
+    background-image: linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB), linear-gradient(45deg, #CBCBCB 25%, transparent 25%, transparent 75%, #CBCBCB 75%, #CBCBCB);
+    -webkit-background-size:30px 30px;
+    -moz-background-size:30px 30px;
+    background-size:30px 30px;
+    background-position:0 0, 15px 15px;    
+}
+
+#previewModalBodySnd, #previewModalBodySwf {
+    margin: 0 auto;
+}
